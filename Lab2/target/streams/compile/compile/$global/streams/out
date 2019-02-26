@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/LABPK/arudnicki/1_sem_prace_zalicz/02_srod_programisty/jprog/Lab2/Cwiczenie1.scala:22:16: not found: value o[0m
+[0m[[0m[31merror[0m] [0m[0m        while (o < n-1){[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/LABPK/arudnicki/1_sem_prace_zalicz/02_srod_programisty/jprog/Lab2/Cwiczenie1.scala:32:9: not found: value o[0m
+[0m[[0m[31merror[0m] [0m[0m        o += 1[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

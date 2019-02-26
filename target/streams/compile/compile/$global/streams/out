@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/LABPK/arudnicki/1_sem_prace_zalicz/02_srod_programisty/jprog/Cwiczenie6.scala:14:31: value pierwsza1 is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    printf("Liczba pierwsza:" pierwsza1)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/LABPK/arudnicki/1_sem_prace_zalicz/02_srod_programisty/jprog/Cwiczenie6.scala:15:28: value pierwsza2 is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    printf("Liczba druga:" pierwsza2)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
